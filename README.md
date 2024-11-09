@@ -1,2 +1,1 @@
-# ESD
-Enterprise Software Development
+# Enterprise Software Development
