@@ -1,0 +1,38 @@
+/* Fullscreen Background Image */
+  .bg-image {
+    background-image: url('assets/bg_image.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full height of the viewport */
+  }
+
+  /* Navbar styling */
+  .navbar {
+    background: rgba(255, 255, 255, 0); /* Transparent background */
+    backdrop-filter: blur(10px); Optional: Adds a blur effect
+  }
+
+  .navbar-brand {
+    font-weight: bold;
+    color: #d9534f; 
+  }
+
+  .navbar-nav .nav-link {
+    color: black;
+    font-weight: bold;
+  }
+
+  a {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+  }
+
+
+  /* Custom CSS */
+  .logo-text {
+    font-size: 1.5rem; /* Adjust font size for website name */
+  }
+  .logo-icon {
+    font-size: 1.3rem; /* Adjust size for spoon and fork icon */
+  }
